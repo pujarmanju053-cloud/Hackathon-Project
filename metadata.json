@@ -1,0 +1,8 @@
+{
+  "name": "Remix MuleGuard – Smart Kiosk Banking \u0026 Money Mule Protection",
+  "description": "AI-assisted fraud prevention platform helping kiosk banking users, students, and first-time digital banking users detect scam messages, money mule transaction patterns, and manipulation tactics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
